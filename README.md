@@ -4,10 +4,7 @@ Sistema web completo para gerenciamento de inventário e controle de produtos, d
 
 🔗 Acesse o projeto online: https://estoque.10001mb.com/?i=1
 
-📸 Screenshots
-- Página inicial / Dashboard
-- Listagem de produtos
-- Cadastro e movimentação de estoque
+
 
 ✨ Funcionalidades
 - 📦 Gerenciamento de produtos (CRUD completo: criar, listar, editar e remover itens)
